@@ -75,7 +75,7 @@ app.layout = html.Div([
     html.Div(id='tabs-content-props',style={'width':'80%','margin':'auto'}),
     html.Div([
         html.P([html.I(className="fa fa-flag"),' Designer: Li Yuanfeng'],style={'font-family':'Avenir','font-size':'24px','font-wight':'bold'}),
-        html.Div([html.A([html.I(className="fa fa-github")], style={'color':'rgb(35,103,197)'})], style={'width':'50px','height':'50px','margin':'10px auto',
+        html.Div([html.A([html.I(className="fa fa-github")], href="https://github.com/AiGaoShiBOY/Data-Visualization", style={'color':'rgb(35,103,197)'})], style={'width':'50px','height':'50px','margin':'10px auto',
                                                                      'color':'white','font-size':'50px',
                                                                      'line-height':'50px'}),
         html.P([' 2020.6'],style={'font-family':'Avenir','font-size':'24px','font-wight':'bold'}),
