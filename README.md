@@ -1,5 +1,5 @@
 # DATA VISUALIZTION
-Human - computer interaction🤪.
+Human Computer Interaction Lab3🤪.
 ## Required package
 > * pandas
 > * dash
